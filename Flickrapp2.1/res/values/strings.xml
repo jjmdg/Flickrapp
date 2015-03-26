@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Flickrapp</string>
+    <string name="zurueck">Zurück</string>
+    <string name="weiter">Weiter</string>
+    <string name="content">Aktuelles Bild</string>
+    <string name="searchTextField_Hint">Tag eingeben</string>
+    <string name="searchButtonLabel">suchen</string>
+    <string name="nextButtonLabel">weiter</string>
+    <string name="previousButtonLabel">zurück</string>
+    <string name="reloadButtonLabel">mehr laden</string>
+
+</resources>
